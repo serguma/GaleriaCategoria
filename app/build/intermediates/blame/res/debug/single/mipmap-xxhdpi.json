@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Volumes/Datos/androidM/GaleriaCategoria/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Volumes/Datos/androidM/GaleriaCategoria/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

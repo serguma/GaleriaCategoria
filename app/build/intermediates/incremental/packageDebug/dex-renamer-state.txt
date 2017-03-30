@@ -1,0 +1,7 @@
+#Thu Mar 30 10:47:05 CEST 2017
+base.0=/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_99b7aaa9146ed558fb3638aa01360d724caadd83
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d365b138d476186e5bc6d9757790e8192777a1fa/classes.dex
+base.1=/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d365b138d476186e5bc6d9757790e8192777a1fa
+file.0=/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_99b7aaa9146ed558fb3638aa01360d724caadd83/classes.dex

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/res/merged/debug/transition/fade.xml",
+        "source": "/Volumes/Datos/androidM/GaleriaCategoria/app/src/main/res/transition/fade.xml"
+    },
+    {
+        "merged": "/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/res/merged/debug/transition/slide.xml",
+        "source": "/Volumes/Datos/androidM/GaleriaCategoria/app/src/main/res/transition/slide.xml"
+    },
+    {
+        "merged": "/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/res/merged/debug/transition/explode.xml",
+        "source": "/Volumes/Datos/androidM/GaleriaCategoria/app/src/main/res/transition/explode.xml"
+    }
+]

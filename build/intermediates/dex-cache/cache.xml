@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18eed6aea27c076b9b66e8047dc9c2e97d457579">
+        <dex dex="/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d365b138d476186e5bc6d9757790e8192777a1fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_99b7aaa9146ed558fb3638aa01360d724caadd83/classes.dex" />
+    </item>
+
+</items>

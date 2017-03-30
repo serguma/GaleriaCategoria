@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/g5/.android/build-cache/d0409094453ae1f75392b3d3d6a01703c838fce7/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/g5/.android/build-cache/d0409094453ae1f75392b3d3d6a01703c838fce7/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/g5/.android/build-cache/d0409094453ae1f75392b3d3d6a01703c838fce7/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/g5/.android/build-cache/d0409094453ae1f75392b3d3d6a01703c838fce7/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/g5/.android/build-cache/d0409094453ae1f75392b3d3d6a01703c838fce7/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/g5/.android/build-cache/d0409094453ae1f75392b3d3d6a01703c838fce7/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/g5/.android/build-cache/d0409094453ae1f75392b3d3d6a01703c838fce7/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/g5/.android/build-cache/d0409094453ae1f75392b3d3d6a01703c838fce7/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/g5/.android/build-cache/d0409094453ae1f75392b3d3d6a01703c838fce7/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/g5/.android/build-cache/b5139aac596585e6cb4a983898dabe55c61bbb10/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/g5/.android/build-cache/b5139aac596585e6cb4a983898dabe55c61bbb10/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/g5/.android/build-cache/d0409094453ae1f75392b3d3d6a01703c838fce7/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/g5/.android/build-cache/b5139aac596585e6cb4a983898dabe55c61bbb10/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Volumes/Datos/androidM/GaleriaCategoria/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/g5/.android/build-cache/b5139aac596585e6cb4a983898dabe55c61bbb10/output/res/anim/design_snackbar_out.xml"
+    }
+]
